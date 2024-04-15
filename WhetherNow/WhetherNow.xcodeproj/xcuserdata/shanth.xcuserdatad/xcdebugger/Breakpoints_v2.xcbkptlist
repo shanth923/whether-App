@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96A0ADA0-FF02-4386-A8AC-2984931F318B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B2FAAFE-B15F-40D7-8380-B9612DB70985"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B2FAAFE-B15F-40D7-8380-B9612DB70985 - c59cc02cdaf601b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "8B2FAAFE-B15F-40D7-8380-B9612DB70985 - c59cc02cdaf60152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "8B2FAAFE-B15F-40D7-8380-B9612DB70985 - c59cc02cdaf60152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "8B2FAAFE-B15F-40D7-8380-B9612DB70985 - ab41f9aacdd4e1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "8B2FAAFE-B15F-40D7-8380-B9612DB70985 - ab41f9aacdd4e1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "8B2FAAFE-B15F-40D7-8380-B9612DB70985 - 8cf46058f252158c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A00C0322-1428-4ECC-918D-37915588A900"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A00C0322-1428-4ECC-918D-37915588A900 - c59cc02cdaf600d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "3292">
+               </Location>
+               <Location
+                  uuid = "A00C0322-1428-4ECC-918D-37915588A900 - c59cc02cdaf600b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "A00C0322-1428-4ECC-918D-37915588A900 - c59cc02cdaf600b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+               <Location
+                  uuid = "A00C0322-1428-4ECC-918D-37915588A900 - ab41f9aacdd4e051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+               <Location
+                  uuid = "A00C0322-1428-4ECC-918D-37915588A900 - 8cf46058f252146f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA - c59cc02cdaf60204"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2244">
+               </Location>
+               <Location
+                  uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA - c59cc02cdaf60035"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2580">
+               </Location>
+               <Location
+                  uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA - c59cc02cdaf60035"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2972">
+               </Location>
+               <Location
+                  uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA - ab41f9aacdd4e0d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2972">
+               </Location>
+               <Location
+                  uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA - ab41f9aacdd4e0d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "3044">
+               </Location>
+               <Location
+                  uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA - 8cf46058f25214eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "3084">
+               </Location>
+               <Location
+                  uuid = "FE6449FE-EC30-4142-AC2A-2200390D95BA - 8cf46058f25214eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F0988DF-DB5A-4B7E-A261-719BDFA7F53E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F0988DF-DB5A-4B7E-A261-719BDFA7F53E - c59cc02cdaf6011c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "6F0988DF-DB5A-4B7E-A261-719BDFA7F53E - c59cc02cdaf60152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "6F0988DF-DB5A-4B7E-A261-719BDFA7F53E - c59cc02cdaf60152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.responseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "6F0988DF-DB5A-4B7E-A261-719BDFA7F53E - ab41f9aacdd4e1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "6F0988DF-DB5A-4B7E-A261-719BDFA7F53E - ab41f9aacdd4e1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(city: Swift.String) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "6F0988DF-DB5A-4B7E-A261-719BDFA7F53E - 8cf46058f252158c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E68F0B7D-2922-44D1-B796-D8C94B4E8464"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D02273D-04D1-41E3-BEB9-2511E543ABA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E6B0EDC-C60B-40B9-BF7F-6C54BEAE20C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AA1C162-9DDD-42ED-8FC5-A2ADBC64610C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AA1C162-9DDD-42ED-8FC5-A2ADBC64610C - 8cf46058f25214ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2892">
+               </Location>
+               <Location
+                  uuid = "0AA1C162-9DDD-42ED-8FC5-A2ADBC64610C - 8cf46058f25214ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F197EDB-B052-439A-9BE3-1EE0349D5543"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhetherNow/ViewModel/WheatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getNextThreeDaysWhether(zip:countryCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F197EDB-B052-439A-9BE3-1EE0349D5543 - 8cf46058f25214ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2892">
+               </Location>
+               <Location
+                  uuid = "4F197EDB-B052-439A-9BE3-1EE0349D5543 - 8cf46058f25214ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WhetherNow.WheaterViewModel.getNextThreeDaysWhether(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; WhetherNow.ResponseBodyList"
+                  moduleName = "WhetherNow"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanth/Desktop/WhetherNow/WhetherNow/ViewModel/WheatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
